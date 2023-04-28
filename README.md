@@ -5,8 +5,8 @@ primeramente crea la base de datos en postgres utilizando el script Spring_Api.s
 
 Para este proyecto se implemento la siguientes versiones e IDE.
    
-   Jkd-20
-   Neatbeans 17
+           - Jkd-20
+           - Neatbeans 17
    
    cargar la carpeta Api_Spring y primeramente hay que hacer un "Clean and Build"
    
