@@ -1,0 +1,12 @@
+org\damian\sapi\entidades\Estudiante_.class
+org\damian\sapi\repositorios\FacultadRepositorio.class
+org\damian\sapi\servicios\FacultadServicio.class
+org\damian\sapi\interfaces\Operaciones.class
+org\damian\sapi\controladores\FacultadControlador.class
+org\damian\sapi\SapiApplication.class
+org\damian\sapi\ServletInitializer.class
+org\damian\sapi\entidades\Programa_.class
+org\damian\sapi\entidades\Programa.class
+org\damian\sapi\entidades\Estudiante.class
+org\damian\sapi\entidades\Facultad.class
+org\damian\sapi\entidades\Facultad_.class

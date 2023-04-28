@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<actions>
+        <action>
+            <actionName>CUSTOM-run Spring_Api</actionName>
+            <displayName>run Spring_Api</displayName>
+            <goals>
+                <goal>org.springframework.boot:spring-boot-maven-plugin:2.7.10:run</goal>
+            </goals>
+        </action>
+    </actions>
